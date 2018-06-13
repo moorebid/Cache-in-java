@@ -1,0 +1,37 @@
+****************
+* Cache
+* CS321 
+* 05/15/2018
+* Jeffrey Moore
+****************
+
+OVERVIEW:
+
+The Cache class uses a linked list to implement a single or double level cache of objects.
+
+
+INCLUDED FILES:
+
+ List the files required for the project with a brief
+ explanation of why each is included.
+ * Cache.java - source file
+ * Test.java - source file
+
+COMPILING AND RUNNING:
+
+ From the directory containing all source files, compile the
+ Cache.java class (and all dependencies) with the command:
+
+ $ javac Test.java
+
+ Example Usage:
+ For single level cache:
+ $java Test 1 <size of cache> <file name>
+ For double level cache:
+ $java Test 2 <size of cache 1> <size of cache 2> <file name>
+
+
+TESTING:
+
+  The Cache class was tested with the Test class, using the provided files
+
