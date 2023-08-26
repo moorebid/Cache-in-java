@@ -191,6 +191,7 @@ public class Cache<T> {
 		 *            the element to be stored within the new node
 		 */
 		public Node(E elem) {
+			// this is for testing
 			next = null;
 			element = elem;
 		}
